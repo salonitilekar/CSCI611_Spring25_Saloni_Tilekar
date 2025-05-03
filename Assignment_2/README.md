@@ -19,7 +19,6 @@ CSCI611_Spring25_Saloni_Tilekar/
 └── Assignment_2/
     ├── image_filter.ipynb
     ├── build_cnn.ipynb
-    └── report.pdf (or embedded in notebooks)
 ```
 
 ### Prerequisites
