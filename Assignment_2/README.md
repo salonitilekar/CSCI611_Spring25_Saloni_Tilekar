@@ -72,8 +72,8 @@ pip install numpy matplotlib torch torchvision jupyter
 
 | Optimizer | Accuracy |
 |-----------|----------|
-| SGD       | 76%      |
-| Adam      | 67%      |
+| SGD       | 73%      |
+| Adam      | 65%      |
 
 - **Architecture:** 4 convolutional layers (32 → 64 → 128 → 256 channels)  
 - **Improvements:** Batch normalization, dropout (p=0.3), data augmentation (random flips, rotations)
