@@ -1,7 +1,6 @@
 # CSCI 611 – Spring 2025 – Assignment 2
 
-**Name:** Saloni Tilekar  
-**Date:** May 3, 2025
+**Name:** Saloni Tilekar
 
 ## 📚 Introduction
 
